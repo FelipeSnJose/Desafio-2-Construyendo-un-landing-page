@@ -1,0 +1,40 @@
+.pokesection {
+  background-image: url(../imgs/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+}
+
+.pokesection > h1 {
+  font-size: 60px;
+}
+
+.pokesection > p {
+  font-size: 30px;
+}
+
+#productos {
+  text-align: center;
+}
+
+#productos h2 {
+  font-size: 50px;
+}
+
+#productos h3 {
+  font-size: 30px;
+}
+
+#productos p {
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
+footer {
+  margin-top: 60px;
+  background-color: black;
+  padding: 25px;
+  color: white;
+  text-align: center;
+}
